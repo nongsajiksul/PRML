@@ -2,7 +2,7 @@
 
 **Pattern Recognition and Machine Learning - Christopher Bishop**
 
-![prml](https://user-images.githubusercontent.com/55227276/120257893-09e43600-c2cc-11eb-8601-6593f22f4a6c.png){: width="50%" height="50%"}
+<img src="imgs/prml.png" width = "50%" height="50%">
 
 
 
