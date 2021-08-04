@@ -15,4 +15,6 @@
 | 21.06.24 | 02. Probability Distributions(2.3.3 ~ 2.3.6)       |
 | 21.06.30 | 02. Probability Distributions(2.3.7 ~ 2.3.9)       |
 | 21.07.06 | 02. Probability Distributions(2.4 ~ 2.5), Exercise |
+| 21.07.15 | 02. Probability Distributions Exercise             |
+| 21.08.04 | 03. Linear Models for Regression(3.1 ~ 3.2)        |
 
